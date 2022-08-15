@@ -13,6 +13,8 @@ Initial Security()
 Security patch()
 {
  //Added by master
+Feature2{
+ //feature2
 }
 Feature1{
  //feature1
