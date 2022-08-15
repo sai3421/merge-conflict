@@ -9,7 +9,6 @@ Initial Security()
 {
  //Sample Code
 }
-<<<<<<< HEAD
 Security patch()
 {
  //Added by master
